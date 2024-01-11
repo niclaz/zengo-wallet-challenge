@@ -1,28 +1,46 @@
 # Bitcoin related
 
 bitcoinjs-lib
+
 electrs
+
 mnemonic-recovery
+
 lightning (c-lightning)
+
 rust-bitcoin
+
 rust-electrumx-client
 
 
 # Potential Tech Stack
 
 node-cache-manager-redis-yet - Redis cache store for node-cache-manager. (fork)
+
 node-client - NODE - Node.js SDK for the BlockCypher Web services.
+
 node-electrum-client - NODE -  Electrum Protocol Client for Node.js
+
 node-u2flib-server - NODE - Serverside U2F library for Node.js. Provides functionality for registering U2F devices and authenticate with said devices.
+
 react-native-dropdownalert
+
 react-native-haptic-feedback
+
 react-native-push-notification
+
 react-native-root-toast
+
 react-native-safari-view
+
 react-native-secure-storage
+
 react-native-svg
+
 react-native-swiper
+
 react-native-switch
+
 react-native-zoom-sdk
 
 
@@ -125,59 +143,109 @@ random-beacon - ?
 
 
 # Rust related
+
 failure (old)
+
 jsonwebtoken
+
 merkle.rs
+
 neon
+
 serde_dynamodb
+
 rust-elgamal
+
 rust-gmp
+
 rust-paillier
+
 rust-utils
 
+
 # Web3 repos
+
 anchor-playground
+
 badger_dao_script_analysis
+
 client-v1
+
 binance-thresh-wallet
+
 compound-playground
+
 cosmos-thresh-wallet
+
 Ethereum2.0-Resources
+
 eth_txpool_view
+
 extra-ordinaire
+
 flippable-operator-filterer
+
 foundry-cheatsheet
+
 foundry-workshop
+
 MiceyMask
+
 paradise-city
+
 signature-simulation
+
 smart-contracts-workshop
+
 solana-tss
+
 synthetix-js
+
 terra-js
+
 terra-multisend
+
 terra-thresh-wallet
+
 terra.js
+
 tezos-thresh-wallet
+
 taquito
+
 taquito-taquito
+
 walletconnect-collabland-test
+
 walletconnect-premint-test
+
 walletconnect-tokenproof-test
+
 Zilliqa-JavaScript-Library
+
 zcash
+
 javascript-sdk (BNB)
+
 JugglingSwap
+
 klaytn-thresh-wallet
+
 libra
+
 librustzcash
+
 zengo-academy-nft
 
 
 # Old repos - filtered
 
 DevicesSlackBot (5 years)
+
 pps -  Stealth addresses based on inner product FE (PoC for hackathaon)
+
 pps-gc - related to pps
+
 spec-multi-party-ecdsa
+
 u2f-sample-server - used for testing, forked repo
