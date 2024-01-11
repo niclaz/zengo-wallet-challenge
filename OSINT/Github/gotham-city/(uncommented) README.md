@@ -22,7 +22,7 @@ List of supported Coin&#40;s&#41;:
 **Extending the client to support more coin&#40;s&#41; is easy as long as the Elliptic Curve and signing scheme of the new blockchain are supported. In the case a blockchain is using secp256k1 together with ECDSA, the same keygen and signing code can be reused.**
 
 
-| ![Demo]&#40;misc/demo.gif&#41; |
+| ![demo.gif](/OSINT/Github/gotham-city/gotham-city-demo.gif)|
 | -------------------------------------------- |
 
 | Elements                                                 | Gotham Server                                | Gotham Client                                |
