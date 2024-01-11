@@ -16,7 +16,7 @@ do with it what you wish and crack the wallet anon
 
 ## Essential Links
 
-### Twitter
+### Twitter Megathread
 [My megathread on Twitter/X](https://twitter.com/NicLazTweets/status/1744336384721035373)
 Started once I stumbled on the twitter announcement on (8 Jan 2024)
 
@@ -26,6 +26,12 @@ Started once I stumbled on the twitter announcement on (8 Jan 2024)
 
 ## ZenGO
 [ZenGo Challenge webpage](https://zengo.com/zengo-wallet-bitcoin-challenge)
+
+[Reddit AMA Launch](https://www.reddit.com/r/CryptoCurrency/comments/190s3uc/hack_a_zengo_wallet_win_10_bitcoin_ama/?utm_source=share&utm_medium=web2x&context=3)
+
+[Twitter Thread by ZenGo](https://twitter.com/ZenGo/status/1744000321360179678)
+
+[Twitter Spaces Launch](https://twitter.com/i/spaces/1OyKAWqZyEaJb?s=20)
 
 [BTC address: 3NB5gbyhCQM92WUpHxfpK7PqC1KKTAYwpK](https://mempool.space/address/3NB5gbyhCQM92WUpHxfpK7PqC1KKTAYwpK)
 
