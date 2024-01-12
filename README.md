@@ -16,7 +16,6 @@ Do with it what you wish and crack the wallet anon
 
 ### Twitter Megathread
 [My megathread on Twitter/X](https://twitter.com/NicLazTweets/status/1744336384721035373)
-Started once I stumbled on the twitter announcement on (8 Jan 2024)
 
 [*ears perk up* tweet thanks to @officer_cia](https://twitter.com/NicLazTweets/status/1744321499807338983)
 
@@ -41,6 +40,8 @@ Started once I stumbled on the twitter announcement on (8 Jan 2024)
 - OSINT Day 0 - 3 consolidation into /OSINT
 - Extracting interesting files from /zengo-x repository
 - Extract and uncomment gotham-city/README.md
+- repo folders / content planning
+- other ZenGo repos to review
 - Other stuff
 - More stuff
 - Never end gonna give you up
