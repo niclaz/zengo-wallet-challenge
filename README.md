@@ -1,7 +1,5 @@
 # zengo-wallet-challenge
 
-
-
 ## About
 
 Repository for all OSINT and code relating to ZenGo Wallet Challenge #ZengoWalletChallenge
@@ -11,8 +9,8 @@ Repository for all OSINT and code relating to ZenGo Wallet Challenge #ZengoWalle
 **Status: Ongoing** 
 
 All information and code in this repository is **CC0 licensed**
-do with it what you wish and crack the wallet anon
 
+Do with it what you wish and crack the wallet anon
 
 ## Essential Links
 
@@ -20,7 +18,7 @@ do with it what you wish and crack the wallet anon
 [My megathread on Twitter/X](https://twitter.com/NicLazTweets/status/1744336384721035373)
 Started once I stumbled on the twitter announcement on (8 Jan 2024)
 
-[*ears perk up* tweet off @officer_cia](https://twitter.com/NicLazTweets/status/1744321499807338983)
+[*ears perk up* tweet thanks to @officer_cia](https://twitter.com/NicLazTweets/status/1744321499807338983)
 
 [Thread Reader Unroll: Tweets 1 - 114](https://threadreaderapp.com/thread/1744336384721035373.html)
 
@@ -33,9 +31,9 @@ Started once I stumbled on the twitter announcement on (8 Jan 2024)
 
 [Twitter Spaces Launch](https://twitter.com/i/spaces/1OyKAWqZyEaJb?s=20)
 
-[BTC address: 3NB5gbyhCQM92WUpHxfpK7PqC1KKTAYwpK](https://mempool.space/address/3NB5gbyhCQM92WUpHxfpK7PqC1KKTAYwpK)
+[BTC address:](https://mempool.space/address/3NB5gbyhCQM92WUpHxfpK7PqC1KKTAYwpK) 3NB5gbyhCQM92WUpHxfpK7PqC1KKTAYwpK
 
-[ETH address: 0x3ceb6a3eeb69a3b8fd4d1865dde9799310e547b7](https://etherscan.io/address/0x3ceb6a3eeb69a3b8fd4d1865dde9799310e547b7)
+[ETH address:](https://etherscan.io/address/0x3ceb6a3eeb69a3b8fd4d1865dde9799310e547b7) 0x3ceb6a3eeb69a3b8fd4d1865dde9799310e547b7
 
 
 ## TO DO
@@ -51,12 +49,15 @@ Started once I stumbled on the twitter announcement on (8 Jan 2024)
 
 # Give back
 
-Want to contribute to the repo? make a PR or just fork the whole main branch which I renamed 'niclaz' - call it your own if you like.
+Want to contribute to the repo? make a PR or just fork the whole main branch 
+
+'main' has been renamed 'niclaz' - call it your own if you like. It is all CC0.
 
 If you found this useful (especially if you crack that wallet because of it) please consider sending me some sats ;)
 
 bc1...
+
 ln...
 
-I also accept other tokens/coins > [add: contact information pending]
+I also accept other tokens/coins [contact information pending]
 
