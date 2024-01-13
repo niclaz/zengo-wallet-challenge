@@ -1,4 +1,4 @@
-# Observations from commit history review of gotham-city from version v 1.0.0 release (new gotham)
+# Observations from commit history review of gotham-city from version v 1.0.0 release (new gotham) 
 
 After v 0.1.4 in May 13 2021 for almost 2 years no code updates until release of 1.0.0
 
