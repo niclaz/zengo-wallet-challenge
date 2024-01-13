@@ -1,4 +1,4 @@
-Search the various code repositories for the following terms
+### Search the various code repositories for the following terms
 
 > json((kg_party_one_second_message, paillier_key_pair, range_proof, correct_key_proof))
 
