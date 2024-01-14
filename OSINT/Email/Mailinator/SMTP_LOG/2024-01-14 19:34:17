@@ -1,0 +1,22 @@
+0ms	SOCKET_OPEN		Connection from: 223.165.112.1
+0ms	OUTGOING	-->	220 Mailinator.com ESMTP MailinatorSMTP
+79ms	INCOMING	<--	EHLO 223.165.112.1.jfk.braze.com
+79ms	OUTGOING	-->	250-mail.mailinator.com 250-8BITMIME 250-STARTTLS 250 Ok
+158ms	INCOMING	<--	STARTTLS
+158ms	OUTGOING	-->	220 Ready to start TLS
+324ms	TLS_ACTIVE		
+403ms	INCOMING	<--	EHLO 223.165.112.1.jfk.braze.com
+403ms	OUTGOING	-->	250-mail.mailinator.com 250-8BITMIME 250-STARTTLS 250 Ok
+482ms	INCOMING	<--	MAIL FROM:<msprvs1=197438B6A8tV8=bounces-1898-370@hello.zengo.com>
+482ms	OUTGOING	-->	250 Ok
+561ms	INCOMING	<--	RCPT TO:<zengowalletchallenge@mailinator.com>
+561ms	OUTGOING	-->	250 Ok
+641ms	INCOMING	<--	DATA
+641ms	OUTGOING	-->	354 End data with <CR><LF>.<CR><LF>
+641ms	DATA		[ Data Delivery Starts ]
+799ms	DATA		[ 15301 data bytes received ]
+799ms	MSG_SAVED		Public Message Stored: zengowalletchallenge-1705257257-304024817
+800ms	OUTGOING	-->	250 Ok
+5880ms	INCOMING	<--	QUIT
+5880ms	OUTGOING	-->	221 Bye
+5880ms	SOCKET_CLOSED		
