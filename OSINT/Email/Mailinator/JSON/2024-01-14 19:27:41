@@ -1,0 +1,43 @@
+{
+    "fromfull": "hello@zengo.com",
+    "headers": {
+        "date": "Sun, 14 Jan 2024 18:27:40 +0000",
+        "subject": "Confirm your email on Zengo",
+        "received": "from a27-186.smtp-out.us-west-2.amazonses.com([54.240.27.186])\r\n        by mail.mailinator.com with SMTP (Mailinator)\r\n        for zengowalletchallenge@mailinator.com;\r\n        Sun, 14 Jan 2024 18:27:40 +0000 (UTC)",
+        "content-type": "multipart/alternative;\r\n boundary=\"--_NmP-d90507f57758a81e-Part_1\"",
+        "from": "Zengo <hello@zengo.com>",
+        "to": "zengowalletchallenge@mailinator.com",
+        "reply-to": "support@zengo.com"
+    },
+    "subject": "Confirm your email on Zengo",
+    "ip": "54.240.27.186",
+    "seconds_ago": 11277,
+    "requestId": "40756",
+    "parts": [
+        {
+            "headers": {
+                "content-transfer-encoding": "quoted-printable",
+                "content-type": "text/plain; charset=utf-8"
+            },
+            "body": "Hey there!\r\n\r\n Before you get started, tap the following link on a mobile device to confirm your email:\r\nhttps://app.zengo.com/magiclink/?userAuthenticationCode=c93fe665-6d8c-42f0-ba48-de4bf61981e5\r\n\r\nYours truly,\r\nThe Zengo Team"
+        },
+        {
+            "headers": {
+                "content-transfer-encoding": "quoted-printable",
+                "content-type": "text/html; charset=utf-8"
+            },
+            "body": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n <head> \n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"> \n  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"> \n  <meta name=\"format-detection\" content=\"address=no\"> \n  <style type=\"text/css\" rel=\"stylesheet\" media=\"all\">\r\n@media (prefers-color-scheme: dark) {\r\n  .button {\r\n    color: #0f0e0e;\r\n  }\r\n}\r\n</style> \n </head> \n <body dir=\"ltr\" style=\"height: 100%; margin: 0; line-height: 1.4; background-color: #FFFFFF; padding: 0; -webkit-text-size-adjust: none; font-family: 'Roboto', Arial, sans-serif; width: 100%;\"> \n  <table class=\"email-wrapper\" cellpadding=\"0\" cellspacing=\"0\" style=\"width: 100%; margin: 0; padding: 0;\" width=\"100%\"> \n   <tbody>\n    <tr> \n     <td id=\"content-wrapper\" align=\"center\"> \n      <table class=\"email-content\" cellpadding=\"0\" cellspacing=\"0\"> \n       <tbody>\n        <tr> \n         <td class=\"email-masthead\" style=\"padding-top: 56px; padding-left: 32px; padding-right: 32px;\"> <img class=\"BrandLogosLogo---On-Light\" src=\"https://s3-us-west-2.amazonaws.com/django-service-qa.com/img/ZengoLogo.png\" srcset=\"https://s3-us-west-2.amazonaws.com/django-service-qa.com/img/ZengoLogo.png,\r\n                             https://s3-us-west-2.amazonaws.com/django-service-qa.com/img/ZengoLogo.png\" alt=\"logo\" style=\"width: 120px; height: 40px; object-fit: contain;\" width=\"120\" height=\"40\"> </td> \n        </tr> \n        <tr> \n         <td class=\"email-body\"> \n          <table class=\"email-body_inner\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-radius: 4px 4px 0px 0px; padding: 24px 32px 0px 32px;\"> \n           <tbody>\n            <tr> \n             <td> \n              <table class=\"body-action\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" style=\"background-color: #f4f8fc; color: #121516; padding: 32px;\" bgcolor=\"#f4f8fc\"> \n               <tbody>\n                <tr> \n                 <td align=\"left\"> Hi there, <br> Tap the button below to confirm your email address. Make sure you’re on a mobile device. <br> <a href=\"https://www.mailinator.com/linker?linkid=a4d54c2a-1f3c-4d40-b566-cfe5ca90488e\" class=\"button\" target=\"_blank\" style=\"border-radius: 16px; font-size: 16px; font-weight: 700; text-align: center; -webkit-text-size-adjust: none; mso-hide: all; margin-top: 32px; margin-bottom: 32px; padding: 16px; line-height: 140%; background-color: #ea9c2f; color: #0f0e0e; text-decoration: none; display: inline-block; color-scheme: light only;\"> Tap to Confirm </a> <br> or <a href=\"https://www.mailinator.com/linker?linkid=87f7c529-5449-4503-9008-f34fb8df3e9e\" style=\"color: #DEA048; text-decoration: none;\"> click here to confirm </a> </td> \n                </tr> \n               </tbody>\n              </table> \n              <!--[endif]--> </td> \n            </tr> \n           </tbody>\n          </table> </td> \n        </tr> \n        <tr> \n         <td> \n          <table class=\"email-footer\" cellpadding=\"0\" cellspacing=\"0\" style=\"padding: 32px; margin-right: 32px; margin-left: 32px;\"> \n           <tbody>\n            <tr> \n             <td> <p class=\"sub\" style=\"margin-top: 0; line-height: 12px; font-size: 10px; font-weight: 400;\"> <a style=\"color: #AEAEAE; text-decoration: none;\">©2023 Zengo. All rights reserved. HaArbaa 28, Tel Aviv, Israel</a> <img width=\"1\" height=\"1\" border=\"0\" src=\"https://img.boostinbox-third.com/502-94dd9140-3b0e-430b-958b-b60c2fb7bf9f/registration.gif\"> </p> </td> \n            </tr> \n            <tr> \n             <td> <img class=\"footer-logo\" src=\"https://s3-us-west-2.amazonaws.com/django-service-qa.com/img/zengo-logo-footer.png\" srcset=\"https://s3-us-west-2.amazonaws.com/django-service-qa.com/img/zengo-logo-footer.png,\r\n                              https://s3-us-west-2.amazonaws.com/django-service-qa.com/img/zengo-logo-footer.png\" alt=\"logo\" style=\"margin-top: 16px; height: 24px; object-fit: contain;\" height=\"24\"> </td> \n            </tr> \n           </tbody>\n          </table> </td> \n        </tr> \n       </tbody>\n      </table> </td> \n    </tr> \n   </tbody>\n  </table>  \n </body>\n</html>"
+        }
+    ],
+    "from": "Zengo",
+    "origfrom": "Zengo <hello@zengo.com>",
+    "to": "zengowalletchallenge",
+    "id": "zengowalletchallenge-1705256861-304021094",
+    "time": 1705256861000,
+    "clickablelinks": [
+        {
+            "link": "https://app.zengo.com/magiclink/?userAuthenticationCode=c93fe665-6d8c-42f0-ba48-de4bf61981e5",
+            "text": "click here to confirm"
+        }
+    ]
+}
