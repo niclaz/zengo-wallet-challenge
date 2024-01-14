@@ -10,3 +10,6 @@ app.zengo.com
 
 app.zengo.com/f/a (mailinator)
 
+go.zengo.com
+
+clicks.zengo.com
