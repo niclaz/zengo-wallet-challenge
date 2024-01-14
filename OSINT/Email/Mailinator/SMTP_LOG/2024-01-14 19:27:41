@@ -1,0 +1,23 @@
+0ms	SOCKET_OPEN		Connection from: 54.240.27.186
+0ms	OUTGOING	-->	220 Mailinator.com ESMTP MailinatorSMTP
+73ms	INCOMING	<--	EHLO a27-186.smtp-out.us-west-2.amazonses.com
+73ms	OUTGOING	-->	250-mail.mailinator.com 250-8BITMIME 250-STARTTLS 250 Ok
+146ms	INCOMING	<--	STARTTLS
+146ms	OUTGOING	-->	220 Ready to start TLS
+295ms	TLS_ACTIVE		
+368ms	INCOMING	<--	EHLO a27-186.smtp-out.us-west-2.amazonses.com
+368ms	OUTGOING	-->	250-mail.mailinator.com 250-8BITMIME 250-STARTTLS 250 Ok
+441ms	INCOMING	<--	MAIL FROM:<0101018d093abce1-efc755fb-4c6a-452b-a0c2-dc8b74f5040d-000000@mail.zengo.com>
+441ms	OUTGOING	-->	250 Ok
+513ms	INCOMING	<--	RCPT TO:<zengowalletchallenge@mailinator.com>
+514ms	OUTGOING	-->	250 Ok
+586ms	INCOMING	<--	DATA
+586ms	OUTGOING	-->	354 End data with <CR><LF>.<CR><LF>
+586ms	DATA		[ Data Delivery Starts ]
+659ms	DATA		[ 7278 data bytes received ]
+659ms	MSG_SAVED		Public Message Stored: zengowalletchallenge-1705256861-304021094
+660ms	OUTGOING	-->	250 Ok
+8668ms	OUTGOING	-->	SocketTimeout-1
+8668ms	OUTGOING	-->	Socket Timeout-3
+8668ms	ERROR		421 Timeout
+8668ms	SOCKET_CLOSED		
