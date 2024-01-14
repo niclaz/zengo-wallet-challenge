@@ -1,0 +1,168 @@
+Received: from a27-186.smtp-out.us-west-2.amazonses.com([54.240.27.186])
+        by mail.mailinator.com with SMTP (Mailinator)
+        for zengowalletchallenge@mailinator.com;
+        Sun, 14 Jan 2024 18:27:40 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="--_NmP-d90507f57758a81e-Part_1"
+From: Zengo <hello@zengo.com>
+To: zengowalletchallenge@mailinator.com
+Reply-To: support@zengo.com
+Subject: Confirm your email on Zengo
+Date: Sun, 14 Jan 2024 18:27:40 +0000
+
+
+----_NmP-d90507f57758a81e-Part_1
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hey there!
+
+ Before you get started, tap the following link on a mobile =
+device to confirm your email:
+https://app.zengo.com/magiclink/?=
+userAuthenticationCode=3Dc93fe665-6d8c-42f0-ba48-de4bf61981e5
+
+Yours truly,
+The Zengo Team
+----_NmP-d90507f57758a81e-Part_1
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" =
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, =
+initial-scale=3D1.0">
+  <meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3DUTF-8">
+  <meta name=3D"format-detection" =
+content=3D"address=3Dno">
+  <style type=3D"text/css" rel=3D"stylesheet" =
+media=3D"all">
+@media (prefers-color-scheme: dark) {
+  .button {
+    color: #0f0e0e;
+  }
+}
+</style>
+</head>
+
+<body dir=3D"ltr" =
+style=3D"height: 100%; margin: 0; line-height: 1.4; background-color: =
+#FFFFFF; padding: 0; -webkit-text-size-adjust: none; font-family: 'Roboto',=
+ Arial, sans-serif; width: 100%;">
+  <table class=3D"email-wrapper" =
+cellpadding=3D"0" cellspacing=3D"0" style=3D"width: 100%; margin: 0; =
+padding: 0;" width=3D"100%">
+    <tr>
+      <td id=3D"content-wrapper" =
+align=3D"center">
+        <table class=3D"email-content" cellpadding=3D"0" =
+cellspacing=3D"0">
+          <tr>
+            <td class=3D"email-masthead" =
+style=3D"padding-top: 56px; padding-left: 32px; padding-right: 32px;">
+              <img class=3D"BrandLogosLogo---On-Light" =
+src=3D"https://s3-us-west-2.amazonaws.com/django-service-qa.=
+com/img/ZengoLogo.png" srcset=3D"https://s3-us-west-2.amazonaws.=
+com/django-service-qa.com/img/ZengoLogo.png,
+                             =
+https://s3-us-west-2.amazonaws.com/django-service-qa.com/img/ZengoLogo.png"=
+ alt=3D"logo" style=3D"width: 120px; height: 40px; object-fit: contain;" =
+width=3D"120" height=3D"40">
+            </td>
+          </tr>
+          <tr>
+            <td class=3D"email-body">
+              <table class=3D"email-body_inner" align=3D"center" =
+cellpadding=3D"0" cellspacing=3D"0" style=3D"border-radius: 4px 4px 0px =
+0px; padding: 24px 32px 0px 32px;">
+                <tr>
+                  <td>
+                   =20
+                             =
+           <table class=3D"body-action" align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" style=3D"background-color: #f4f8fc; color: #121516; =
+padding: 32px;" bgcolor=3D"#f4f8fc">
+                      <tr>
+                        <td align=3D"left">
+                          Hi =
+there,
+                          <br>
+                          Tap the =
+button below to confirm your email address. Make sure you=E2=80=99re on a =
+mobile device.
+                          <br>
+                          <a =
+href=3D"https://app.zengo.com/magiclink/?userAuthenticationCode=3Dc93fe665-=
+6d8c-42f0-ba48-de4bf61981e5" class=3D"button" target=3D"_blank" =
+style=3D"border-radius: 16px; font-size: 16px; font-weight: 700; =
+text-align: center; -webkit-text-size-adjust: none; mso-hide: all; =
+margin-top: 32px; margin-bottom: 32px; padding: 16px; line-height: 140%; =
+background-color: #ea9c2f; color: #0f0e0e; text-decoration: none; display: =
+inline-block; color-scheme: light only;">
+                            Tap =
+to Confirm
+                          </a>
+                          <br>
+                          or <a href=3D"https://app.zengo.com/magiclink/?=
+userAuthenticationCode=3Dc93fe665-6d8c-42f0-ba48-de4bf61981e5" =
+style=3D"color: #DEA048; text-decoration: none;">
+                         =
+   click here to confirm
+                            </a>
+                        </td>
+                      </tr>
+                    </table>
+                    <![endif]>
+                                       =20
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <table =
+class=3D"email-footer" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"padding: 32px; margin-right: 32px; margin-left: 32px;">
+                <tr>
+                  <td>
+                    <p =
+class=3D"sub" style=3D"margin-top: 0; line-height: 12px; font-size: 10px; =
+font-weight: 400;">
+                      <a style=3D"color: #AEAEAE; =
+text-decoration: none;">=C2=A92023 Zengo. All rights reserved. HaArbaa 28, =
+Tel Aviv, Israel</a>
+                      <img width=3D"1" height=3D"1" =
+border=3D"0" src=3D"https://img.boostinbox-third.com/502-94dd9140-3b0e-430b=
+-958b-b60c2fb7bf9f/registration.gif">
+                    </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <img class=3D"footer-logo" =
+src=3D"https://s3-us-west-2.amazonaws.com/django-service-qa.=
+com/img/zengo-logo-footer.png" srcset=3D"https://s3-us-west-2.amazonaws.=
+com/django-service-qa.com/img/zengo-logo-footer.png,
+                              https://s3-us-west-2.amazonaws.=
+com/django-service-qa.com/img/zengo-logo-footer.png" alt=3D"logo" =
+style=3D"margin-top: 16px; height: 24px; object-fit: contain;" =
+height=3D"24">
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>
+----_NmP-d90507f57758a81e-Part_1--
