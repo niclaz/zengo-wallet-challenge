@@ -10,6 +10,8 @@
 
 @OurielOhayon (CEO)@TalBeerySec (CTO)
 
+@TalBeerySec (Co-Founder, CTO @ZenGo)
+
 @ArielMGore (Head of Comms)
 
 @EladBleistein (CMO)
@@ -17,6 +19,10 @@
 @leontiad (Head of Cryptography)
 
 @UriKelman (Director of Design)
+
+@ShiriGoldis (Marketing Manager)
+
+@EliorBenC (Data Lead)
 
 
 ### TAL'S TWITTER THREADS
