@@ -1,0 +1,15 @@
+[package]
+name = "tests"
+version = "0.1.2"
+authors = []
+edition = "2021"
+
+[dependencies]
+rocket.workspace = true
+two-party-ecdsa.workspace = true
+gotham-server.workspace = true
+gotham-client.workspace = true
+serde_json.workspace = true
+secp256k1.workspace = true
+rand.workspace = true
+
