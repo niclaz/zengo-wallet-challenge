@@ -2,24 +2,40 @@
 
 ## About
 
-Repository for all OSINT and code relating to ZenGo Wallet Challenge #ZengoWalletChallenge
+Repository for all OSINT and code relating to ZenGo Wallet Challenge #ZengoWalletChallenge. All information and code in this repository is **CC0 licensed.** Do with it what you wish, add a PR if you like, and if you break the wallet consider giving back some sats ;)
 
-**Dates: 9 to 28 January 2024**
+**Dates:** 9 to 28 January 2024
 
-**Status: Ongoing** 
+**Status:** Ongoing
 
-All information and code in this repository is **CC0 licensed**
+**Conditions** [ZenGo White Hat Conditions apply](https://zengo.com/white-hats)
 
-Do with it what you wish and crack the wallet anon
+[ADD SCREENSHOT]
+
+- no DoS / DDoS
+- no social engineering (phishing, vishing, smishing)
+- no SSL/TLS config attacks on server
+- yes RCE on server
+- yes to SQL injection
+
+Out of Scope:
+- Previously known vulnerable libraries without a working proof of concept
+- Missing best practices in SSL/TLS configuration
+- Any activity that could lead to the disruption of our service (DoS)
+
+Confirmed by [Zengo team via Twitter on 14 Jan](https://twitter.com/NicLazTweets/status/1746581742473855341)
+
+[**Personal Commitment to how funds will be used**](https://twitter.com/NicLazTweets/status/1747622106659991750)
 
 ## Essential Links
 
-### Twitter Megathread
-[My megathread on Twitter/X](https://twitter.com/NicLazTweets/status/1744336384721035373)
+[OSINT - START HERE](https://github.com/niclaz/zengo-wallet-challenge/blob/niclaz/OSINT/README.md)
 
-[*ears perk up* tweet thanks to @officer_cia](https://twitter.com/NicLazTweets/status/1744321499807338983)
+[CODE - START HERE](https://github.com/niclaz/zengo-wallet-challenge/blob/niclaz/CODE/README.md)
 
-[Thread Reader Unroll: Tweets 1 - 114](https://threadreaderapp.com/thread/1744336384721035373.html)
+...
+
+...
 
 ## ZenGO
 [ZenGo Challenge webpage](https://zengo.com/zengo-wallet-bitcoin-challenge)
@@ -34,13 +50,20 @@ Do with it what you wish and crack the wallet anon
 
 [ETH address:](https://etherscan.io/address/0x3ceb6a3eeb69a3b8fd4d1865dde9799310e547b7) 0x3ceb6a3eeb69a3b8fd4d1865dde9799310e547b7
 
+### Twitter
+[My megathread on Twitter/X](https://twitter.com/NicLazTweets/status/1744336384721035373)
+
+[*ears perk up* tweet thanks to @officer_cia](https://twitter.com/NicLazTweets/status/1744321499807338983)
+
+[Thread Reader Unroll: Tweets 1 - 114](https://threadreaderapp.com/thread/1744336384721035373.html)
+
 
 ## TO DO
 
-- OSINT Day 0 - 3 consolidation into /OSINT
+x OSINT Day 0 - 3 consolidation into /OSINT
 - Extracting interesting files from /zengo-x repository
-- Extract and uncomment gotham-city/README.md
-- repo folders / content planning
+x Extract and uncomment gotham-city/README.md
+x repo folders / content planning
 - other ZenGo repos to review
 - Other stuff
 - More stuff
