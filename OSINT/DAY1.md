@@ -33,29 +33,31 @@ It appears ZenGo are the first to implement this form of Legacy MPC recovery pro
 ## Video - Zengo Proof of Bitcoin / Penguin
 
 What we can verify from video: 
-- Ari is not of the Challenge wallet 3d facelock owner - [Confirmed by comments on Twitter by Ari](https://twitter.com/ArielMGore/status/1744740970959388935) - so **do not consider his face for 3D FaceLock bypassing**
-Pin typed in during one video
-// potential derivation of finger movement? glass reflection?
-Security level of account seen in video of Penguin verification
-//replicate status, it was not max
 
-Attack vector considerations: adding a search tab: Face mapping AI
+- Ari is not of the Challenge wallet 3d facelock owner
+  - [Confirmed by comments on Twitter by Ari](https://twitter.com/ArielMGore/status/1744740970959388935)
+  - so **do not consider his face for 3D FaceLock bypassing**
+    
+- Pin is typed in during one video
+
+> attack vector: potential derivation of finger movement? glass reflection?
+
+- Security level of account seen in video of Penguin verification
+
+> attack vector: replicate security status, it was not max
+
+> Attack vector considerations: adding a search tab: Face mapping AI
 
 
 ## OSINT - WEBSITE
 
-Challenge webpage updated
-Bitcoin address: 3NB5gbyhCQM92WUpHxfpK7PqC1KKTAYwpK
-ETH address: 0x3ceb6a3eeb69a3b8fd4d1865dde9799310e547b7
+Challenge webpage updated: https://zengo.com/zengo-wallet-bitcoin-challenge/
 
-Verified:
-1.000000 BTC
-0.006942 ETH 
-+ 1 Pudgy Penguin NFT
+Bitcoin address: 3NB5gbyhCQM92WUpHxfpK7PqC1KKTAYwpK (1.000000 BTC)
 
-Annual audits by Certik, Forta, Alchemy, Hacken
+ETH address: 0x3ceb6a3eeb69a3b8fd4d1865dde9799310e547b7 (0.006942 ETH + 1 Pudgy Penguin NFT)
 
-Features added to Pro wallet
+Features which are added to Pro wallet (not available on free version?)
 - 3D Face Theft protection
 - web3 firewall
 - 24/7 support chat
@@ -67,68 +69,60 @@ Confirmed in Spaces that Theft Protection is active on the wallet being used in 
 FAQ: Can I lose my account...?
 
 "... if both of these things were to happen:
-1) You lose your device and need to recover it
-and
-2) You lose access to one or more of the 3 factors necessary to authenticate your wallet recovery."
+You lose your device and need to recover it and you lose access to one or more of the 3 factors necessary to authenticate your wallet recovery."
+
 [3FA screenshot]
 
 FAQ: Can Zengo prevent certain transactions from happening?
+
 "Zengo’s MPC security system requires that any transaction you make be validated by Zengo’s servers before being broadcasted to the blockchain...
 While in theory..."
 
 > attack vector to consdier: TX validation happens before broadcasting
 
 FAQ: Can Zengo know who I am?
-"Zengo has no access to any private information about you besides your email, and this email can be non-nominative should you choose."
->> Their way of verifying you is your email and the FaceTec dependency/3rd party
 
-> attack vector - 3D FaceLock dependency, Inspect code
-> 
+"Zengo has no access to any private information about you besides your email, and this email can be non-nominative should you choose."
+
+> attack vector - 3D FaceLock dependency, Inspect code... Their way of verifying you is your email and the FaceTec dependency/3rd party
+
 
 ## OSINT - AUDITS
 
-AppSec 2019
-https://zengo.com/audit/audit-appsec_june2019.pdf
+AppSec 2019: https://zengo.com/audit/audit-appsec_june2019.pdf
 
-Kudelski 2019
-https://zengo.com/audit/audit-kudelski_march2019.pdf
+Kudelski 2019: https://zengo.com/audit/audit-kudelski_march2019.pdf
 
-Kudelski 2019
-https://zengo.com/audit/audit-kudelski_october2019.pdf
+Kudelski 2019: https://zengo.com/audit/audit-kudelski_october2019.pdf
 
-Scorpiones 2021
-https://zengo.com/audit/audit-%20scorpiones_february2021.pdf
+Scorpiones 2021: https://zengo.com/audit/audit-%20scorpiones_february2021.pdf
 
-Scorpiones 2022
-https://zengo.com/audit/audit-scorpiones_october2022.pdf
+Scorpiones 2022: https://zengo.com/audit/audit-scorpiones_october2022.pdf
 
-Certik 2023
-https://zengo.com/zengo-certik-audit-2023/
+Certik 2023: https://zengo.com/zengo-certik-audit-2023/
 
-source: /security page
 
 ## OSINT - WEBSITE SUBPAGES
 
 Consideration that the Pro features + the wallet supporting multiple assets (not just BTC) could mean more attack surfaces for potential exploits
 What iz attack surface?
+
 https://zengo.com/pro/
 
-For those wishing to explore the #multiasset vector
-Supported: Ethereum, Polygon, Arbitrum One & Optimism Mainnets
-Not: BSC, Tron, Base, Bitcoin Cash and other Layer 2s.
+For those wishing to explore the #multiasset vector - Supported: Ethereum, Polygon, Arbitrum One & Optimism Mainnets - Not supported: BSC, Tron, Base, Bitcoin Cash and other Layer 2s.
+
 https://zengo.com/assets/
 
-Another vector for accessing the Ethereum wallet could be smart-contract exploits / malicious signing
-This would require subverting this 'web3 firewall' part of the Pro wallet version and also phishing the user
-//not a feasible IMHO
+Another vector for accessing the Ethereum wallet could be smart-contract exploits / malicious signing. This would require subverting this 'web3 firewall' part of the Pro wallet version and also phishing the user
+
 https://zengo.com/firewall/
 
+> attack vector: not a feasible IMHO
 
 ## OSINT - WEBSITE - TSS
 TSS = Threshold Signatures System
 
-"The Zengo system is a “two out of two” party ECDSA threshold signatures system.
-The two parties are the secure Zengo server and the Zengo user’s mobile device."
+"The Zengo system is a “two out of two” party ECDSA threshold signatures system. The two parties are the secure Zengo server and the Zengo user’s mobile device."
 
 > attack vector: investigate how zengo constructs 2/2 Tx
 
@@ -146,7 +140,9 @@ If ZenGo moved from the /multi-party-ecdsa code due to exploits in GG20 MPC comp
 
 Is the content on the webpage about TSS out of date?
 
-Within an MPC cryptography related Telegram chat managed by ZenGo and team you can find details of a handful of moments when exploits were announced and team commented they were unaffected... i.e. #BitForge - https://www.fireblocks.com/blog/bitforge-fireblocks-researchers-uncover-vulnerabilities-in-over-15-major-wallet-providers/
+Within an MPC cryptography related Telegram chat managed by ZenGo and team you can find details of a handful of moments when exploits were announced and team commented they were unaffected
+
+i.e. #BitForge - https://www.fireblocks.com/blog/bitforge-fireblocks-researchers-uncover-vulnerabilities-in-over-15-major-wallet-providers/
 
 DISCLAIMER: As only a mere cat I only know some things. I do understand *some* cryptography but I am not an expert or speak of the soundness of the BitForge / GG20 / MPC vulnerabilites. I know attacking the cryptography is not a valid approach to win this Challenge.
 
@@ -158,7 +154,9 @@ https://zengo.com/zengo-and-open-source
 What is Open Sourced? the cryptography but not the app?
 
 linked on the webpage:
+
 /multi-party-ecdsa
+
 /curv code repository
 
 https://zengo.com/mpc-wallet/
@@ -182,12 +180,12 @@ gg to ZenGo for bringing these researchers together
 
 ZenGo website uses Wordpress and has a sitemap.xml for SEO / better web navigation
 
-These have been exported for easier navigation here: 
-
-https://github.com/niclaz/zengo-wallet-challenge/tree/niclaz/OSINT/Website
+These have been exported for easier navigation here: https://github.com/niclaz/zengo-wallet-challenge/tree/niclaz/OSINT/Website
 
 /post-sitemap.xml has all blog posts
+
 /page-sitemap.xml has all webpages
+
 
 ## OSINT - SUPPORT
 
@@ -201,15 +199,15 @@ So like good developers that use certain Open Source software licenses the team 
 
 ![Open Source Licenses](/Website/open-source-licenses.md)
 
-I realise that for some of you the above doesn't mean much, so let me give context to it and it may be useful
+I realise that for some of you the above doesn't mean much, so let me give context to it and it may be useful...
 
-## LISTED OPEN SOURCE LICENSES / DEPENDENCIES
+### LISTED OPEN SOURCE LICENSES / DEPENDENCIES
 
 Making software is hard, especially from scratch. Open Source is awesome & Open Source cryptography is very important but in building the server and app there is a good chance ZenGo uses some of the above in their stack. my ears perked at the following:
 
-winapi - rust package to call Windows API
-cloudabi - ABI for UNIX-like OS (note: project is unmaintained)
-Lock_Api
+- winapi a rust package to call Windows API
+- cloudabi an ABI for UNIX-like OS (note: project is unmaintained)
+- Lock_Api
 
 > Attack vector, inspect code
 
@@ -290,6 +288,7 @@ https://help.zengo.com/en/articles/3123492-what-bitcoin-address-formats-does-zen
 ### Support - General > Assets
 
 "If a token or NFT is important to you, please request it from our customer support agents, and we will try our best to add support for it."
+
 Is this how the @pudgypenguins NFT is secured?
 
 Additional verification by a human? ... just like a bank?
