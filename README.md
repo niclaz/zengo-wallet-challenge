@@ -50,6 +50,8 @@ Confirmed by [Zengo team via Twitter on 14 Jan](https://twitter.com/NicLazTweets
 
 [Twitter Spaces Launch](https://twitter.com/i/spaces/1OyKAWqZyEaJb?s=20)
 
+[Twitter Space with Certik](https://twitter.com/CertiKCommunity/status/1747320352038883488)
+
 [BTC address:](https://mempool.space/address/3NB5gbyhCQM92WUpHxfpK7PqC1KKTAYwpK) 3NB5gbyhCQM92WUpHxfpK7PqC1KKTAYwpK
 
 [ETH address:](https://etherscan.io/address/0x3ceb6a3eeb69a3b8fd4d1865dde9799310e547b7) 0x3ceb6a3eeb69a3b8fd4d1865dde9799310e547b7
