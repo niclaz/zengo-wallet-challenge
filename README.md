@@ -10,6 +10,11 @@ Repository for all OSINT and code relating to ZenGo Wallet Challenge #ZengoWalle
 
 **Conditions** [ZenGo White Hat Conditions apply](https://zengo.com/white-hats)
 
+**Official HINTS**
+- Hint #1: The Email Address associated with this wallet is zengowalletchallenge@mailinator.com.
+  Go to www.mailinator.com to enter this email in the “Public Inbox” at the top of the page.
+- Hint #2: The email address associated with the Recovery File Cloud Backup is: zengowalletchallenge@kzencorp.com
+  
 [ADD SCREENSHOT]
 
 - no DoS / DDoS
@@ -61,12 +66,12 @@ Confirmed by [Zengo team via Twitter on 14 Jan](https://twitter.com/NicLazTweets
 ## TO DO
 
 x OSINT Day 0 - 3 consolidation into /OSINT
-- Extracting interesting files from /zengo-x repository
+x Extracting interesting files from /zengo-x repository
 x Extract and uncomment gotham-city/README.md
 x repo folders / content planning
-- other ZenGo repos to review
-- Other stuff
-- More stuff
+- added dontation addresses
+- Blackhat video review
+- Certik audit review
 - Never end gonna give you up
 
 
@@ -79,9 +84,11 @@ Want to contribute to the repo? make a PR or just fork the whole main branch
 
 If you found this useful (especially if you crack that wallet because of it) please consider sending me some sats ;)
 
-bc1...
+mainnet BTC: bc1qpkqvqk2faaufqcqw0slukwu5hkcfmw3na07egh
 
-ln...
+Lightning BTC: 0x1dd47171ac43fb86@ln.tips
+
+LNURL: LNURL1DP68GURN8GHJ7MRW9E6XJURN9UH8WETVDSKKKMN0WAHZ7MRWW4EXCUP0XPURZERYXSMNZDE3V93NGVMXVGURVX44M9F
 
 I also accept other tokens/coins [contact information pending]
 
