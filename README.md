@@ -37,7 +37,8 @@ Confirmed by [Zengo team via Twitter on 14 Jan](https://twitter.com/NicLazTweets
 
 [CODE - START HERE](https://github.com/niclaz/zengo-wallet-challenge/blob/niclaz/CODE/README.md)
 
-...
+[OSINT - Certik blog](https://www.certik.com/resources/blog/7nffL7PQxjmt5enMXU9zL-fortifying-zengo-unearthing-and-defending-against-privileged-user-attacks) - Fortifying ZenGo: Unearthing and Defending Against Privileged User Attacks (4/4/2023)
+
 
 ...
 
@@ -63,6 +64,18 @@ Confirmed by [Zengo team via Twitter on 14 Jan](https://twitter.com/NicLazTweets
 
 [Thread Reader Unroll: Tweets 1 - 114](https://threadreaderapp.com/thread/1744336384721035373.html)
 
+
+### Videos
+
+[Black Hat -  Small Leaks, Billions Of Dollars: Practical Cryptographic Exploits That Undermine Crypto Wallets](https://www.youtube.com/watch?v=y9zA5O52u8w)
+
+[DEF CON 31 - Small Leaks, Billions Of Dollars - Nikolaos Makriyannis, Oren Yomtov](https://www.youtube.com/watch?v=LfZcS_G-Zcs)
+
+[DeCompute'23 - Nikolaos Makriyannis - Practical KeyExtraction attacks in leading wallets](https://www.youtube.com/watch?v=bta8_r5ZWzU)
+
+[Omer Shlomovits - Multiple Bugs in Multi-Party Computation: Breaking Cryptocurrency's Strongest Wallets (2 years ago)](https://www.youtube.com/watch?v=0Okqvm4lBQI)
+
+[Tal Be'ery & Matan Hamilis - Attacking and Defending Blockchains: From Horror Stories to Secure Wallets (5 years ago)](https://www.youtube.com/watch?v=OBzJVGkebI4)
 
 ## TO DO
 
