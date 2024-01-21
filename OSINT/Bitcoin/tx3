@@ -1,0 +1,57 @@
+02000000000101562097934f4fd61c8e17b34abc7eb7c90e987b4406639c019202e52d15755aff0000000017160014fcc83d4d9e79c454b65902ac0772233a04485e03fdffffff021e0900000000000017a914e0b14d0ef57fe7d2a5044ca8655cf63e649f7e67876e1fd7170000000017a9143b6c0a11af5f1415c259ee4c900263bf90150e298702483045022100e69fe19198fa055a6d8130c248e1684d5d013f5ff1f9c3f2c4615316f2bf4985022005e2a09f13f7c02426136c8e35595f70e8c937d1c582436be74dd57ab8f8c50d0121024560b53a55b00070c3c1fe4bb6c5c9a332609fcd46b26c2c08c9671da41e666d00000000
+
+{
+    "addresses": [
+        "3JngJyTA72p7dhRxavgFEU5iSFpcTxEbXD",
+        "3NB5gbyhCQM92WUpHxfpK7PqC1KKTAYwpK",
+        "377DDZnpcbd69JQoDtNwFfGEWsbb16Taos"
+    ],
+    "block_height": -1,
+    "block_index": -1,
+    "confirmations": 0,
+    "double_spend": false,
+    "fees": 23412,
+    "hash": "3a05cedfa2c13ce4e4495bc2f86b135c23750bdb2fbcc5fe75ba8e61bf5367b2",
+    "inputs": [
+        {
+            "addresses": [
+                "3JngJyTA72p7dhRxavgFEU5iSFpcTxEbXD"
+            ],
+            "age": 825316,
+            "output_index": 0,
+            "output_value": 400000000,
+            "prev_hash": "ff5a75152de50292019c6306447b980ec9b77ebc4ab3178e1cd64f4f93972056",
+            "script": "160014fcc83d4d9e79c454b65902ac0772233a04485e03",
+            "script_type": "pay-to-script-hash",
+            "sequence": 4294967293
+        }
+    ],
+    "opt_in_rbf": true,
+    "outputs": [
+        {
+            "addresses": [
+                "3NB5gbyhCQM92WUpHxfpK7PqC1KKTAYwpK"
+            ],
+            "script": "a914e0b14d0ef57fe7d2a5044ca8655cf63e649f7e6787",
+            "script_type": "pay-to-script-hash",
+            "value": 2334
+        },
+        {
+            "addresses": [
+                "377DDZnpcbd69JQoDtNwFfGEWsbb16Taos"
+            ],
+            "script": "a9143b6c0a11af5f1415c259ee4c900263bf90150e2987",
+            "script_type": "pay-to-script-hash",
+            "value": 399974254
+        }
+    ],
+    "preference": "high",
+    "received": "2024-01-21T21:03:13.395975502Z",
+    "relayed_by": "54.234.89.199",
+    "size": 248,
+    "total": 399976588,
+    "ver": 2,
+    "vin_sz": 1,
+    "vout_sz": 2,
+    "vsize": 166
+}
