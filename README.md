@@ -11,8 +11,7 @@ Repository for all OSINT and code relating to ZenGo Wallet Challenge #ZengoWalle
 **Conditions** [ZenGo White Hat Conditions apply](https://zengo.com/white-hats)
 
 **Official HINTS**
-- Hint #1: The Email Address associated with this wallet is zengowalletchallenge@mailinator.com.
-  Go to www.mailinator.com to enter this email in the “Public Inbox” at the top of the page.
+- Hint #1: The Email Address associated with this wallet is zengowalletchallenge@mailinator.com
 - Hint #2: The email address associated with the Recovery File Cloud Backup is: zengowalletchallenge@kzencorp.com
   
 [ADD SCREENSHOT]
