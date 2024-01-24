@@ -39,9 +39,6 @@ Confirmed by [Zengo team via Twitter on 14 Jan](https://twitter.com/NicLazTweets
 
 [OSINT - Certik blog](https://www.certik.com/resources/blog/7nffL7PQxjmt5enMXU9zL-fortifying-zengo-unearthing-and-defending-against-privileged-user-attacks) - Fortifying ZenGo: Unearthing and Defending Against Privileged User Attacks (4/4/2023)
 
-
-...
-
 ## ZenGO
 [ZenGo Challenge webpage](https://zengo.com/zengo-wallet-bitcoin-challenge)
 
@@ -77,18 +74,6 @@ Confirmed by [Zengo team via Twitter on 14 Jan](https://twitter.com/NicLazTweets
 
 [Tal Be'ery & Matan Hamilis - Attacking and Defending Blockchains: From Horror Stories to Secure Wallets (5 years ago)](https://www.youtube.com/watch?v=OBzJVGkebI4)
 
-## TO DO
-
-x OSINT Day 0 - 3 consolidation into /OSINT
-x Extracting interesting files from /zengo-x repository
-x Extract and uncomment gotham-city/README.md
-x repo folders / content planning
-- added dontation addresses
-- Blackhat video review
-- Certik audit review
-- Never end gonna give you up
-
-
 
 # Give back
 
@@ -98,11 +83,12 @@ Want to contribute to the repo? make a PR or just fork the whole main branch
 
 If you found this useful (especially if you crack that wallet because of it) please consider sending me some sats ;)
 
-mainnet BTC: bc1qpkqvqk2faaufqcqw0slukwu5hkcfmw3na07egh
+mainnet BTC (P2SH): 3GqdnZk6FbZth35jVFNzJ2zxabwijeSnCh
+
+mainnet BTC (Native SegWit): bc1qpkqvqk2faaufqcqw0slukwu5hkcfmw3na07egh
 
 Lightning BTC: 0x1dd47171ac43fb86@ln.tips
 
 LNURL1DP68GURN8GHJ7MRW9E6XJURN9UH8WETVDSKKKMN0WAHZ7MRWW4EXCUP0XPURZERYXSMNZDE3V93NGVMXVGURVX44M9F
 
 I also accept other tokens/coins if you prefer - DM me on Twitter @NicLazTweets
-
