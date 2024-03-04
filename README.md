@@ -57,8 +57,6 @@ Confirmed by [Zengo team via Twitter on 14 Jan](https://twitter.com/NicLazTweets
 ### Twitter
 [My megathread on Twitter/X](https://twitter.com/NicLazTweets/status/1744336384721035373)
 
-[*ears perk up* tweet thanks to @officer_cia](https://twitter.com/NicLazTweets/status/1744321499807338983)
-
 [Thread Reader Unroll: Tweets 1 - 114](https://threadreaderapp.com/thread/1744336384721035373.html)
 
 
@@ -88,7 +86,3 @@ mainnet BTC (P2SH): 3GqdnZk6FbZth35jVFNzJ2zxabwijeSnCh
 mainnet BTC (Native SegWit): bc1qpkqvqk2faaufqcqw0slukwu5hkcfmw3na07egh
 
 Lightning BTC: 0x1dd47171ac43fb86@ln.tips
-
-LNURL1DP68GURN8GHJ7MRW9E6XJURN9UH8WETVDSKKKMN0WAHZ7MRWW4EXCUP0XPURZERYXSMNZDE3V93NGVMXVGURVX44M9F
-
-I also accept other tokens/coins if you prefer - DM me on Twitter @NicLazTweets
