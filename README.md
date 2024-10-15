@@ -72,17 +72,3 @@ Confirmed by [Zengo team via Twitter on 14 Jan](https://twitter.com/NicLazTweets
 
 [Tal Be'ery & Matan Hamilis - Attacking and Defending Blockchains: From Horror Stories to Secure Wallets (5 years ago)](https://www.youtube.com/watch?v=OBzJVGkebI4)
 
-
-# Give back
-
-Want to contribute to the repo? make a PR or just fork the whole main branch 
-
-'main' has been renamed 'niclaz' - call it your own if you like. It is all CC0.
-
-If you found this useful (especially if you crack that wallet because of it) please consider sending me some sats ;)
-
-mainnet BTC (P2SH): 3GqdnZk6FbZth35jVFNzJ2zxabwijeSnCh
-
-mainnet BTC (Native SegWit): bc1qpkqvqk2faaufqcqw0slukwu5hkcfmw3na07egh
-
-Lightning BTC: 0x1dd47171ac43fb86@ln.tips
